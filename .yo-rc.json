@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "admin",
+    "packageName": "com.witbooking.admin",
+    "packageFolder": "com/witbooking/admin",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "useCompass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "rememberMeKey": "bb4812e18de9d61ab2991945854e87fdf0f19f9b"
+  }
+}
